@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chicago Web Design | Chicago Web Development | Eleven Eleven Creative</title>
+    <title>7R Digital</title>
 	<link href="css/fonts/icons.css" rel="stylesheet" media="all">
 	<link href="css/styles.css" rel="stylesheet" media="all">
 	<link rel="shortcut icon" href="images/favicon.png" />
@@ -15,8 +15,8 @@
 	<header class="header">
 		<h1 class="logo">7R <span class="digital">Digital</span></h1>
 		<ul class="social-links">
-			<li><a href="https://twitter.com/1111creative" target="_blank" class="ss-icon ss-social-circle">twitter</a></li>
-			<li><a href="https://www.facebook.com/ElevenElevenCreative" target="_blank" class="ss-icon ss-social-circle">facebook</a></li>
+			<li><a href="https://twitter.com/7rdigital" target="_blank" class="ss-icon ss-social-circle">twitter</a></li>
+			<li><a href="https://www.facebook.com/7rDigital" target="_blank" class="ss-icon ss-social-circle">facebook</a></li>
 		</ul>
 	</header>
 
@@ -28,7 +28,7 @@
 			<span>problem solvers,</span>
 			<span>& explorers</span></h2>
 			<h3>for the social age</h3>
-			<p><a href="mailto:hello@elevenelevencreative.com" class="btn">Let's Collaborate</a></p>
+			<p><a href="mailto:joe@7rdigital.com" class="btn">Let's Collaborate</a></p>
 		</div>
 	</section>
 	
